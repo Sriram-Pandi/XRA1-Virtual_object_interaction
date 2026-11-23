@@ -1,6 +1,8 @@
 # XR App 1 - Virtual Object Interaction in VR
 
-## 📥 Files Included
+## Downloads and project files
+
+The APK and Unity project are hosted externally using the links below. This repository contains the project documentation.
 - **APK File** - Install and test the VR app on Meta Quest [**Here**](https://drive.google.com/file/d/1sjeY_PRpN8J516LrieYP8VIR7ishGu8D/view?usp=sharing)
 - **Unity Project Files** - Explore the source code and scene setup [**Here**](https://drive.google.com/file/d/1M5loPyQvdpLNBYh19dDsd3ZNgAvHSeN-/view?usp=sharing)
 
