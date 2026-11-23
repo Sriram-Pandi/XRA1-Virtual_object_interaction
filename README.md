@@ -27,3 +27,7 @@ The APK and Unity project are hosted externally using the links below. This repo
 This project serves as a **foundation for more advanced XR applications**, including **3D design tools, interactive simulations, and virtual training environments**.
 
 🚀 *Try out the app and feel free to contribute!*
+
+## Local evaluation
+
+Open the linked Unity project with the editor version in its project settings, or use the linked APK on the target headset. Check object selection and interaction in the test scene. Source and build verification require the externally hosted project.
